@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0237/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 野雲映禪師宗統頌
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J40/J40nB484.xml
+    old_id: J40nB484
+hash: sha256:56d1747379d6c8872f13ee55f97bedf09b7b4d63e7955d88ea932dda8fb5d3ef

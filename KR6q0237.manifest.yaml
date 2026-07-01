@@ -1,0 +1,372 @@
+canonical_identifier: bkk:krp/KR6q0237/v1
+canonical_location: https://kanripo.org/bkk/KR6q0237/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 野雲映禪師宗統頌
+  identifiers:
+    alt_id:
+    - J40nB484
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J40/J40nB484.xml
+    old_id: J40nB484
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0237_000.yaml, hash: 'sha256:56d1747379d6c8872f13ee55f97bedf09b7b4d63e7955d88ea932dda8fb5d3ef'}
+  - {seq: 1, filename: KR6q0237_001.yaml, hash: 'sha256:9718c62010399b4e80e60454069e174c54daa5835770828f961c65e292346121'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0237_001.markers.yaml, hash: 'sha256:e9cf5d721da2d36ff79e5289c47c5d2854837b5393537e7c286c78400e6efffc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7502
+  label: 野雲映禪師宗統頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 宗統頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 南岳第一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-3
+    span:
+    - body
+    - 173
+    - 173
+  label: 南岳第二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-4
+    span:
+    - body
+    - 463
+    - 463
+  label: 南岳第三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-5
+    span:
+    - body
+    - 619
+    - 619
+  label: 南岳第四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-6
+    span:
+    - body
+    - 818
+    - 818
+  label: 南岳第五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-7
+    span:
+    - body
+    - 954
+    - 954
+  label: 南岳第六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-8
+    span:
+    - body
+    - 1156
+    - 1156
+  label: 南岳第七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-9
+    span:
+    - body
+    - 1227
+    - 1227
+  label: 南岳第八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-10
+    span:
+    - body
+    - 1307
+    - 1307
+  label: 南岳第九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-11
+    span:
+    - body
+    - 1393
+    - 1393
+  label: 南岳第十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-12
+    span:
+    - body
+    - 1503
+    - 1503
+  label: 南岳第十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-13
+    span:
+    - body
+    - 1644
+    - 1644
+  label: 南岳第十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-14
+    span:
+    - body
+    - 1801
+    - 1801
+  label: 南岳第十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-15
+    span:
+    - body
+    - 1973
+    - 1973
+  label: 南岳第十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-16
+    span:
+    - body
+    - 2071
+    - 2071
+  label: 南岳第十五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-17
+    span:
+    - body
+    - 2322
+    - 2322
+  label: 南岳第十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-18
+    span:
+    - body
+    - 2569
+    - 2569
+  label: 南岳第十七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-19
+    span:
+    - body
+    - 2787
+    - 2787
+  label: 南岳第十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-20
+    span:
+    - body
+    - 2929
+    - 2929
+  label: 南岳第十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-21
+    span:
+    - body
+    - 3130
+    - 3130
+  label: 南岳第二十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-22
+    span:
+    - body
+    - 3270
+    - 3270
+  label: 南岳第二十一世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-23
+    span:
+    - body
+    - 3448
+    - 3448
+  label: 南岳第二十二世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-24
+    span:
+    - body
+    - 3655
+    - 3655
+  label: 南岳第二十三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-25
+    span:
+    - body
+    - 3819
+    - 3819
+  label: 南岳第二十四世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-26
+    span:
+    - body
+    - 3984
+    - 3984
+  label: 南岳第二十五世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-27
+    span:
+    - body
+    - 4149
+    - 4149
+  label: 南岳第二十六世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-28
+    span:
+    - body
+    - 4322
+    - 4322
+  label: 南岳第二十七世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-29
+    span:
+    - body
+    - 4491
+    - 4491
+  label: 南岳第二十八世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-30
+    span:
+    - body
+    - 4680
+    - 4680
+  label: 南岳第二十九世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-31
+    span:
+    - body
+    - 5164
+    - 5164
+  label: 南岳第三十世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-32
+    span:
+    - body
+    - 5572
+    - 5572
+  label: 塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0237_J_001-mulu-33
+    span:
+    - body
+    - 6333
+    - 6333
+  label: 行狀
+  type: mulu
+  level: 1
+hash: sha256:5cf157ae88be8b58538351b976053668298e62bf6eda6b4f2573d2ea815e5fd2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
